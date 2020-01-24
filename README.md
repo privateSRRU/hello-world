@@ -1,2 +1,2 @@
 # hello-world
-Just another respository
+Hello Computer SRRU.
